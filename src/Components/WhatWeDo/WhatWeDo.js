@@ -7,7 +7,7 @@ const WhatWeAre = () => {
 
   return (
     <>
-      <div id="about">
+      <div id="WhatWeDo" style={{ "margin-top": "-48px" }}>
         <Local/>
         <International/>
       </div>

@@ -20,19 +20,20 @@ const About = () => {
               Our vision
             </div>
             <p>
-              We demonstrate the
-              {!matches473 && <br />}
-              Love of God in our
-              {!matches473 && <br />}
-              giving to those in need
+              We demonstrate the Love of God in our giving to those in need
+              {/* {!matches473 && <br />} */}
+
+              {/* {!matches473 && <br />} */}
+               
               <hr style={{ margin: ".4rem 0" }} />
               <span>
-                Matthew 25:35-40
-                {!matches473 && <br />} Isaiah 58:6,7
+                Matthew 25:35-40, Isaiah 58:6,7
+                {/* {!matches473 && <br />} */}
+                
               </span>
             </p>
           </div>
-          <p style={{margin:"2rem 0 0 0"}}>
+          <p>
             No need is too small and no voice is too quiet to be heard. We will
             devote the time necessary to advocate for and feed those in need!
           </p>

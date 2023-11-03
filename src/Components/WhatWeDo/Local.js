@@ -19,7 +19,7 @@ const Local = () => {
 
   return (
     <>
-      <div id="about">
+      <div>
         <div className={aboutTitleWrapper}>
           <div className={aboutTitle}>
             <div id="local" className={emTitle}>What We Do</div>

@@ -57,11 +57,10 @@
 }
 
 .emTitle {
-  margin: 2rem 0 0 0;
+  margin: 2rem 0;
   font-size: 2.5rem;
   line-height: 2.5rem;
   text-transform: uppercase;
-  border-bottom: 10px solid #ffffff00;
 }
 
 .btn {
@@ -124,8 +123,8 @@
 @media screen and (min-width: 768px) {
   .aboutTitle > p {
     padding: 1rem 5rem;
-    background-color: #371528;
-    color: white;
+    /* background-color: #371528; */
+    /* color: white; */
   }
 
   .aboutTitleWrapper > p {
@@ -136,7 +135,7 @@
 
   .emTitle {
     font-size: 3.8rem;
-    margin: 5rem 0 0 0;
+    /* margin: 5rem 0 0 0; */
     background-color: #ffffff00;
     padding: 1.5rem 1.5rem 1.8rem 1.5rem ;
     /* color: white; */
